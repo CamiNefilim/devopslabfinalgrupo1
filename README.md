@@ -1,2 +1,4 @@
-# devopslabfinalgrupo1
-Evaluación 5:Pipeline de despliegue
+# maven-project
+Source code for Jenkins course. 
+
+@2020 Silvano Gil - Año 
