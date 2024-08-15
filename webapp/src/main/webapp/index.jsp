@@ -14,6 +14,6 @@
     <li>Aura Maria Munoz</li>
     <li>Estrella Vejar</li>
 </ul>
-<strong>Esto es un cambio que se publicó a través del Pipeline configurado en Jenkins</strong>
+<strong>Esto es un cambio que se publico a traves del Pipeline configurado en Jenkins</strong>
 </body>
 </html>
