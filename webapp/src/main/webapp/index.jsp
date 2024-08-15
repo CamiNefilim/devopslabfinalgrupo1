@@ -3,16 +3,17 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Evaluación 5</title>
+    <title>Evaluacion 5</title>
 </head>
 <body>
-<h1>Evaluación 5:Pipeline de despliegue</h1>
+<h1>Evaluacion 5:Pipeline de despliegue</h1>
 <hr/>
 <ul>
     <li>Camila Alvarado</li>
-    <li>Esteban Díaz</li>
-    <li>Aura María Muñoz</li>
+    <li>Esteban Diaz</li>
+    <li>Aura Maria Munoz</li>
     <li>Estrella Vejar</li>
 </ul>
+<strong>Esto es un cambio que se publicó a través del Pipeline configurado en Jenkins</strong>
 </body>
 </html>
